@@ -32,7 +32,7 @@ bash install.sh
 编辑本机身份：
 
 ```bash
-$EDITOR ~/.config/xm-server/node.conf
+nano ~/.config/xm-server/node.conf
 ```
 
 每台服务器只需要修改 `NODE_ID` 和 `NODE_NAME`，然后重新 SSH 登录测试。
