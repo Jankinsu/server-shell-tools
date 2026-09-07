@@ -1,0 +1,3 @@
+# Copy this file to ~/.config/xm-server/node.conf on each server.
+NODE_ID="XM / NODE-01"
+NODE_NAME="Oracle-AMD-1"

@@ -1,0 +1,19 @@
+# Per-server configuration
+node.conf
+**/node.conf
+
+# Local environment and temporary files
+.env
+.env.*
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Editor and OS metadata
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
